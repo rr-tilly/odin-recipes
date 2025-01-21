@@ -27,7 +27,7 @@ It also helped me become more comfortable with using the CLI, git commands and g
 
 ## Next Steps
 
-After completing the HTML portion, my next goal is to possibly tinker with this project by applying CSS and such to it. I look forward to revisiting this porject in the future and reflect on the progress I’ve hopefully made.
+After completing the HTML portion, my next goal is to possibly tinker with this project by applying CSS and such to it. I look forward to revisiting this project in the future and reflect on the progress I’ve hopefully made.
 
 ---
 
